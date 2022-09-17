@@ -1,2 +1,2 @@
-Node==16.16.0
+Node==16.x
 gunicorn==20.0.4
